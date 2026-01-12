@@ -2,3 +2,5 @@
 
 
 Endless Runner inspired from mobile hypercasual games made in Unity
+
+Download: https://volkanturkut.itch.io/endless-runner
