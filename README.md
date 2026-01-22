@@ -36,3 +36,25 @@ Prerequisites: **Unity 2020.3** (or newer recommended)
 1. Clone the repository:
    ```bash
    git clone [https://github.com/volkanturkut/endless-runner.git](https://github.com/volkanturkut/endless-runner.git)
+
+2. Open Unity Hub.
+
+3. Click Add and select the cloned folder.
+
+4. Open the project.
+
+5. Navigate to the Assets/Scenes folder and open the main scene to run it in the editor.
+
+📂 Project Structure
+Assets/Scripts: Contains C# logic for player movement and game management.
+
+Assets/Prefabs: Reusable game objects (obstacles, coins, player).
+
+Assets/Materials: Textures and shaders for the 3D environment.
+
+🤝 Credits
+Developer: Volkan Turkut
+
+Assets: Character models and animations provided by Adobe Mixamo.
+
+This project is open source. Feel free to fork and submit pull requests!
